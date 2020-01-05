@@ -15,3 +15,4 @@ stash 3 eeee
 test stash0
 12345
 hjkl
+6789
